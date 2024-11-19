@@ -50,12 +50,13 @@ Running the Backend
 Start the Spring Boot Application:
 In Eclipse, right-click the backend project.
 Select Run As > Spring Boot App.
-The backend server will start on http://localhost:8081.
+The backend server will start on http://localhost:8080.
 Accessing the Frontend
 After starting the backend server, the JSP files in the src/main/webapp folder will be accessible.
-Open your browser and navigate to http://localhost:8081 to access the registration form and the list of registered users.
+Open your browser and navigate to http://localhost:8080 to access the registration form and the list of registered users.
 Usage
-
+Access the Application:
+Go to http://localhost:8080 to access the registration page.
 Available Operations
 Create: Fill in the registration form and submit to create a new entry.
 Read: View the list of all registered users on the homepage.
